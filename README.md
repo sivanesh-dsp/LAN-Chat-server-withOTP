@@ -3,6 +3,7 @@
 
 This Project can be used for chatting in Local Area Network.
 Also this is my college project.<br>
+Now Chat in a more colorful envirnment.<br>
 OTP authentication is successfully integrated...
 
 Run `main.py` to chat with you LAN users
